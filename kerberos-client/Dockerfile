@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:bullseye
 MAINTAINER Simão Martins "simao.martins@tecnico.ulisboa.pt"
 
 ENV DEBIAN_FRONTEND noninteractive
